@@ -8,7 +8,7 @@ This simple bash script uses http://whatanime.ga/ ([GitHub source](https://githu
 
 ```
 git clone https://github.com/ritiek/what-anime-is-it
-cd what anime-is-it
+cd what-anime-is-it
 bash predict.sh </path/to/image/or/video>
 ```
 
