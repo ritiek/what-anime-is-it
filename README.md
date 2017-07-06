@@ -6,13 +6,13 @@ This simple bash script uses http://whatanime.ga/ ([GitHub source](https://githu
 
 ## Installation & usage
 
+You need to have [FFmpeg](https://github.com/FFmpeg/FFmpeg/) installed for this tool to work.
+
 ```
 git clone https://github.com/ritiek/what-anime-is-it
 cd what-anime-is-it
 bash predict.sh </path/to/image/or/video>
 ```
-
-If you are predicting from a video file, you'll need have `ffmpeg` installed.
 
 ## License
 
